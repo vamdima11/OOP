@@ -1,0 +1,12 @@
+C:\Users\vamdi\Desktop\Visual\lab1bakum\06\bin\Debug\netcoreapp3.1\06.exe
+C:\Users\vamdi\Desktop\Visual\lab1bakum\06\bin\Debug\netcoreapp3.1\06.deps.json
+C:\Users\vamdi\Desktop\Visual\lab1bakum\06\bin\Debug\netcoreapp3.1\06.runtimeconfig.json
+C:\Users\vamdi\Desktop\Visual\lab1bakum\06\bin\Debug\netcoreapp3.1\06.runtimeconfig.dev.json
+C:\Users\vamdi\Desktop\Visual\lab1bakum\06\bin\Debug\netcoreapp3.1\06.dll
+C:\Users\vamdi\Desktop\Visual\lab1bakum\06\bin\Debug\netcoreapp3.1\06.pdb
+C:\Users\vamdi\Desktop\Visual\lab1bakum\06\obj\Debug\netcoreapp3.1\06.AssemblyInfoInputs.cache
+C:\Users\vamdi\Desktop\Visual\lab1bakum\06\obj\Debug\netcoreapp3.1\06.AssemblyInfo.cs
+C:\Users\vamdi\Desktop\Visual\lab1bakum\06\obj\Debug\netcoreapp3.1\06.csproj.CoreCompileInputs.cache
+C:\Users\vamdi\Desktop\Visual\lab1bakum\06\obj\Debug\netcoreapp3.1\06.dll
+C:\Users\vamdi\Desktop\Visual\lab1bakum\06\obj\Debug\netcoreapp3.1\06.pdb
+C:\Users\vamdi\Desktop\Visual\lab1bakum\06\obj\Debug\netcoreapp3.1\06.genruntimeconfig.cache
